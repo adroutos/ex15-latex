@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.8)  13 NOV 2018 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.8)  18 NOV 2018 00:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -413,20 +413,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 40.
+(Font)              <14.4> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 40.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
+(Font)              <5> on input line 58.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./ex15.aux) ) 
 Here is how much of TeX's memory you used:
- 1614 strings out of 494925
- 19534 string characters out of 6180251
- 77790 words of memory out of 5000000
- 4937 multiletter control sequences out of 15000+600000
+ 1615 strings out of 494925
+ 19542 string characters out of 6180251
+ 78790 words of memory out of 5000000
+ 4938 multiletter control sequences out of 15000+600000
  10109 words of font info for 35 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  27i,12n,23p,250b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -443,7 +443,7 @@ blic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i9.pfb>
-Output written on ex15.pdf (2 pages, 139428 bytes).
+Output written on ex15.pdf (2 pages, 140534 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
