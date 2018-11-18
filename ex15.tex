@@ -42,6 +42,10 @@ e procurar em quais estados pode-se estar a partir desse estado inicial,
 gerando assimo conjunto \textbf{P0}...(à continuar)
 
 \subsection{Exemplo prático}
+
+ESSA FIGURA TEM UM ERRO: q1 -> b -> q1 
+                         q1 -> a -> q1
+                         ESSE "a" TA ESCONDIDO ATRAS DO B KK
 \begin{figure}[H]% 'ht' fala pro lateX para coloar a figura aqui ou no topo da pagina
      \centering % centraliza a figura
       \begin{tikzpicture}
@@ -59,7 +63,7 @@ gerando assimo conjunto \textbf{P0}...(à continuar)
             (q1) edge[loop above] node{$b$} (q1)
             (q2) edge[bend right,above] node{$\epsilon$} (q1);
       \end{tikzpicture}   
-      \caption{Exemplo de um afd}
+      \caption{Exemplo de um afnd}
       \label{fig:my_label}
 \end{figure}          
 
