@@ -48,13 +48,10 @@ ESSA FIGURA TEM UM ERRO: q1 -> b -> q1
                          ESSE "a" TA ESCONDIDO ATRAS DO B KK
 \begin{figure}[H]% 'ht' fala pro lateX para coloar a figura aqui ou no topo da pagina
      \centering % centraliza a figura
-      \begin{tikzpicture}
-          [
-              node distance=3cm % specifies the minimum distance between two nodes. Change if necessary.
-          ]
+      \begin{tikzpicture}[node distance=3cm] % specifies the minimum distance between two nodes. Change if necessary.
           \node[state, initial](q0) {$q_0$};
           \node[state, accepting] at (1,5,2) (q1) {$q_1$};
-          \node[state, right of = q0] (q2) {$q_2$};
+          \node[state, right = of q0] (q2) {$q_2$};
           
           \draw
             (q0) edge[above] node{$b$} (q2)
